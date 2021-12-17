@@ -40,6 +40,6 @@ p {
 }
 
 .result-img-container img {
-  height: fit-content;
+  height: initial;
   width: 85%;
 }
