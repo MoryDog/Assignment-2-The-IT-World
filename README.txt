@@ -1,32 +1,20 @@
-Forty by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+QTHD Group
+Introduction to IT Assignment 2 Group Website
+Team Members
+Nguyen Minh Quan - s3927181
+Nguyen Ngoc Duc Tri - s3926650
+Hua Nam Huy - s3881103
+Le Ngoc Duy - s3757327
+Word Doc
+This is the main part of our assignment, also an information container for our website. The document is shared with every team member through One Drive so that everyone can keep it up-to-date.
 
+Link to the document through One Drive: https://rmiteduau-my.sharepoint.com/:w:/g/personal/s3757327_rmit_edu_vn/Ecb0eqrv_IxLou5n5mtfGjIB5h5grUBY5q_Ftl6-5v1wgA?e=iKNNHp
+GitHub
+Quan: https://github.com/quanvladimir
+Tri: https://github.com/s3926650
+Huy: https://github.com/MoryDog
+Duy: https://github.com/DuyLe2000
+Resources
+Layout format: html5up.net
+HTML Knowledge : https://www.w3schools.com/html/
 
-This is Forty, my latest and greatest addition to HTML5 UP and, per its incredibly
-creative name, my 40th (woohoo)! It's built around a grid of "image tiles" that are
-set up to smoothly transition to secondary landing pages (for which a separate page
-template is provided), and includes a number of neat effects (check out the menu!),
-extra features, and all the usual stuff you'd expect. Hope you dig it!
-
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
